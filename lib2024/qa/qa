@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>qa</title>
+</head>
+<body>
+<p>1)  What are the three components of Web? Answer A webbrowser (or client), a web application server, and a database server</p>
+
+<p> 2)  Define version control and give one example. Answer keeping a software system consisting of many versions and configurations well organized, eg SVN.</p>
+
+<p> 3)  What tag is used to create the title of a web page? Give an example. Answer<title><b>QA for LIB2024<b/></title> </p> 
+
+<p> 4)  What tag is used to create a paragraph in html? Give an example.Answer<p>
+<li> <p><b>Coming Soon:</b> <a href="https://fonts.google.com/specimen/Coming+Soon" title="https://fonts.google.com/specimen/Coming+Soon">https://fonts.google.com/specimen/Coming+Soon <a/></p></li></a> </p>
+
+<p> 5)  Identify the odd one from these tags: <span>, <p>, <a>, <i>  and state the reason? Answer<span/></p> 
+
+
+<p> 6)  What are the tags required to create a navigation list in HTML? Answer<nav>
+  <ul>
+    <li><a href="#">Home</a></li>
+    <li><a href="#">About</a></li>
+    <li><a href="#">Clients</a></li>
+    <li><a href="#">Contact Us</a></li>
+  </ul>
+</nav></p>
+
+<p>7)  What element is used to create images? Name its attributes. Answer<img> </p>
+
+<p>8)  Identify the odd one from these tags: <table>, <tr>, <b>, <td>  and state the reason Answer<td>  this tag is not used to make a table.</p>
+
+</body>
+</html>
